@@ -1,0 +1,2 @@
+&quot;admin&quot;
+This is my txt file of assighment of my subject command line and scripting
